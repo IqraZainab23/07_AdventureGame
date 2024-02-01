@@ -9,11 +9,10 @@ This repository contains the source code and associated files for the Adventure 
 - ***User Choices:*** Implement a decision-making system, enabling users to shape the direction of the story.
 
 ## Usage
-Run the calculator:
+Run the Project:
 ```bash
 npx 07_adventuregame_project
 ```
-Follow the prompt to perform calculations with style!
 
 ## Dependencies
 `Inquirer`: Provides the interactive prompt interface.
